@@ -1,4 +1,4 @@
-Java: 85
+Java: 89
 Data Structures: 90
 Python: 88
 Mathematics: 82
