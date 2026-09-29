@@ -3,3 +3,4 @@ Data Structures
 Python Programming
 Mathematics
 Environmental Science
+Semester: 2 
